@@ -16,7 +16,7 @@ A Rent Calculator is a practical and user-friendly tool designed to help tenants
 
 At its core, a rent calculator enables users to input various factors that influence rent payments, such as the base rent, additional fees, utilities, taxes, and potential discounts or subsidies. By processing this information, it generates a comprehensive estimate of the total monthly or yearly rent amount. This automation saves time and reduces errors compared to manual calculations.
 
-Key Features of a Rent Calculator
+Key Features of a Rent Calculator:
 
 Basic Rent Input
 Users can enter the base rent amount agreed upon for the property. This serves as the starting point for all further calculations.
@@ -39,7 +39,7 @@ For long-term budgeting, some advanced rent calculators allow users to input ant
 Affordability Analysis
 Beyond just adding costs, some calculators analyze affordability based on user income, suggesting ideal rent limits to prevent financial strain.
 
-Benefits of Using a Rent Calculator
+Benefits of Using a Rent Calculator:
 
 Accuracy: It eliminates guesswork by providing precise calculations based on real input values.
 
@@ -61,7 +61,8 @@ Property Managers streamlining rent collection and communicating cost structures
 
 Real Estate Agents advising clients with clear rental cost information.
 
-Conclusion
+Conclusion:
 
 A rent calculator is an essential digital tool that empowers all parties involved in rental agreements. By considering base rent, fees, utilities, taxes, and discounts, it offers a comprehensive view of rental costs in one convenient place. Whether you’re renting your first apartment, managing multiple properties, or negotiating rent terms, a rent calculator can make the process simpler, more transparent, and financially sound. It is a modern solution that supports better decision-making and promotes fair and clear rental transactions for everyone.
 
+## OUTPUT:-
