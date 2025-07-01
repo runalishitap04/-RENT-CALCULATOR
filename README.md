@@ -66,3 +66,4 @@ Conclusion:
 A rent calculator is an essential digital tool that empowers all parties involved in rental agreements. By considering base rent, fees, utilities, taxes, and discounts, it offers a comprehensive view of rental costs in one convenient place. Whether you’re renting your first apartment, managing multiple properties, or negotiating rent terms, a rent calculator can make the process simpler, more transparent, and financially sound. It is a modern solution that supports better decision-making and promotes fair and clear rental transactions for everyone.
 
 ## OUTPUT:-
+![Image](https://github.com/user-attachments/assets/31ecc085-4bd1-431a-b88a-7b3fc422b511)
